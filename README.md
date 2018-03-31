@@ -13,4 +13,4 @@ I (Duc) learned how to run a docker environment and using d3.js and vue.js
 ### What's next for GithubRadar
 Extract more features from the GithubAPI and make more charts!
 ### Try it out
-https://githubradar.info/
+http://githubradar.info/
